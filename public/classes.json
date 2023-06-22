@@ -1,0 +1,102 @@
+[
+  {
+    "instructorName": "Jeanne Dupont",
+    "instructorEmail": "jeanne.dupont@example.com",
+    "instructorImage": "https://c.superprof.com/i/a/24127022/11057491/600/20221205142611/french-teacher-for-three-years-gratuated-with-masters-degree-teaching-available-give-quality-french-lessons.jpg",
+    "className": "French for Beginners",
+    "classImage": "https://iifledu.com/images/French.jpg",
+    "availableSeats": 15,
+    "price": 100,
+    "studentsNum": 500
+  },
+  {
+    "instructorName": "John Smith",
+    "instructorEmail": "john.smith@example.com",
+    "instructorImage": "https://example.com/instructor1.jpg",
+    "className": "Mathematics Fundamentals",
+    "classImage": "https://example.com/class1.jpg",
+    "availableSeats": 0,
+    "price": 80,
+    "studentsNum": 300
+  },
+  {
+    "instructorName": "Emily Johnson",
+    "instructorEmail": "emily.johnson@example.com",
+    "instructorImage": "https://example.com/instructor2.jpg",
+    "className": "Introduction to Programming",
+    "classImage": "https://example.com/class2.jpg",
+    "availableSeats": 10,
+    "price": 120,
+    "studentsNum": 400
+  },
+  {
+    "instructorName": "David Wilson",
+    "instructorEmail": "david.wilson@example.com",
+    "instructorImage": "https://example.com/instructor3.jpg",
+    "className": "English Writing Skills",
+    "classImage": "https://example.com/class3.jpg",
+    "availableSeats": 18,
+    "price": 90,
+    "studentsNum": 250
+  },
+  {
+    "instructorName": "Sophia Martinez",
+    "instructorEmail": "sophia.martinez@example.com",
+    "instructorImage": "https://example.com/instructor4.jpg",
+    "className": "Yoga and Meditation",
+    "classImage": "https://example.com/class4.jpg",
+    "availableSeats": 12,
+    "price": 70,
+    "studentsNum": 150
+  },
+  {
+    "instructorName": "Daniel Thompson",
+    "instructorEmail": "daniel.thompson@example.com",
+    "instructorImage": "https://example.com/instructor5.jpg",
+    "className": "Photography Masterclass",
+    "classImage": "https://example.com/class5.jpg",
+    "availableSeats": 8,
+    "price": 150,
+    "studentsNum": 200
+  },
+  {
+    "instructorName": "Olivia Wilson",
+    "instructorEmail": "olivia.wilson@example.com",
+    "instructorImage": "https://example.com/instructor6.jpg",
+    "className": "Guitar Lessons for Beginners",
+    "classImage": "https://example.com/class6.jpg",
+    "availableSeats": 5,
+    "price": 200,
+    "studentsNum": 100
+  },
+  {
+    "instructorName": "Christopher Lee",
+    "instructorEmail": "christopher.lee@example.com",
+    "instructorImage": "https://example.com/instructor7.jpg",
+    "className": "Graphic Design Essentials",
+    "classImage": "https://example.com/class7.jpg",
+    "availableSeats": 25,
+    "price": 110,
+    "studentsNum": 350
+  },
+  {
+    "instructorName": "Sarah Brown",
+    "instructorEmail": "sarah.brown@example.com",
+    "instructorImage": "https://example.com/instructor8.jpg",
+    "className": "Introduction to Psychology",
+    "classImage": "https://example.com/class8.jpg",
+    "availableSeats": 14,
+    "price": 95,
+    "studentsNum": 180
+  },
+  {
+    "instructorName": "Michael Johnson",
+    "instructorEmail": "michael.johnson@example.com",
+    "instructorImage": "https://example.com/instructor9.jpg",
+    "className": "Cooking Techniques",
+    "classImage": "https://example.com/class9.jpg",
+    "availableSeats": 7,
+    "price": 130,
+    "studentsNum": 220
+  }
+]
